@@ -30,7 +30,6 @@
 ## About The Project
 
 Quotient is a financial insights tool designed to analyze and predict market movements based on SEC filings.
-It scans regulatory 8-K documents to identify key financial signals, sentiment shifts, and potential market-moving events. 
 Once Quotient identifies a potential lead, it will email a summary of the filing along with an impact analysis and reference details.
 
 <h6>NOT FINANCIAL ADVICE, CONDUCT YOUR OWN DUE DILIGENCE. Any investments, trades, speculations, or decisions made on 
