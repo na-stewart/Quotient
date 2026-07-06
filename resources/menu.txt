@@ -1,0 +1,9 @@
+╭─────╮
+│  $  │
+│ ─── │
+│  $  │
+╰─────╯
+Quotient v0.2 * https://github.com/na-stewart/Quotient
+Use arrow keys to navigate and Enter to select.
+All data stored locally.
+{0}

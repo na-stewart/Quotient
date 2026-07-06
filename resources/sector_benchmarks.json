@@ -1,0 +1,86 @@
+{
+    "technology": {
+        "margin": 35,
+        "roe": 10,
+        "max_de": 0.8,
+        "pe": 40,
+        "peg": 2.0
+    },
+    "communication-services": {
+        "margin": 15,
+        "roe": 12,
+        "max_de": 1.2,
+        "pe": 18,
+        "peg": 1.8
+    },
+    "healthcare": {
+        "margin": 15,
+        "roe": 18,
+        "max_de": 0.9,
+        "pe": 15,
+        "peg": 2.0
+    },
+    "financial-services": {
+        "margin": 12,
+        "roe": 12,
+        "max_de": 4.0,
+        "pe": 14,
+        "peg": 1.5
+    },
+    "consumer-cyclical": {
+        "margin": 10,
+        "roe": 15,
+        "max_de": 1.5,
+        "pe": 15,
+        "peg": 1.8
+    },
+    "consumer-defensive": {
+        "margin": 15,
+        "roe": 18,
+        "max_de": 1.2,
+        "pe": 25,
+        "peg": 2.0
+    },
+    "industrials": {
+        "margin": 12,
+        "roe": 15,
+        "max_de": 1.1,
+        "pe": 20,
+        "peg": 1.8
+    },
+    "energy": {
+        "margin": 15,
+        "roe": 12,
+        "max_de": 1.0,
+        "pe": 16,
+        "peg": 1.5
+    },
+    "utilities": {
+        "margin": 18,
+        "roe": 10,
+        "max_de": 2.0,
+        "pe": 16,
+        "peg": 2.5
+    },
+    "real-estate": {
+        "margin": 25,
+        "roe": 8,
+        "max_de": 1.8,
+        "pe": 30,
+        "peg": 2.5
+    },
+    "basic-materials": {
+        "margin": 12,
+        "roe": 12,
+        "max_de": 1.2,
+        "pe": 16,
+        "peg": 1.5
+    },
+    "default": {
+        "margin": 15,
+        "roe": 15,
+        "max_de": 1.0,
+        "pe": 20,
+        "peg": 2.0
+    }
+}

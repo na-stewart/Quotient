@@ -1,0 +1,7 @@
+most_actives
+most_watched_tickers
+most_shorted_stocks
+day_gainers
+day_losers
+fifty_two_wk_gainers
+fifty_two_wk_losers
