@@ -39,7 +39,7 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-![screenshot](https://github.com/na-stewart/Quotient/blob/master/screenshots/report.png)
+<img src="https://github.com/na-stewart/Quotient/blob/master/screenshots/report.png?raw=true" width="520">
 
 Comprehensive reporting designed to uncover potential long-term investment opportunities.
 
@@ -94,16 +94,15 @@ Quotient is snappy and interactive, with a console-based menu that lets you move
 
 ### Start Program
 
-![screenshot](https://github.com/na-stewart/Quotient/blob/master/screenshots/screenshot-1.png)
+<img src="https://github.com/na-stewart/Quotient/blob/master/screenshots/screenshot-1.png?raw=true" width="520">
 
 ### Create Watchlists
 
-![screenshot](https://github.com/na-stewart/Quotient/blob/master/screenshots/screenshot-2.png)
+<img src="https://github.com/na-stewart/Quotient/blob/master/screenshots/screenshot-2.png?raw=true" width="520">
 
 ### Generate Reports
 
-![screenshot](https://github.com/na-stewart/Quotient/blob/master/screenshots/screenshot-3.png)
-
+<img src="https://github.com/na-stewart/Quotient/blob/master/screenshots/screenshot-3.png?raw=true" width="520">
 
 <!-- CONTRIBUTING -->
 ## Contributing
