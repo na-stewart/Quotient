@@ -39,8 +39,6 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-<img src="https://github.com/na-stewart/Quotient/blob/master/screenshots/report.png?raw=true" width="520">
-
 Comprehensive reporting designed to uncover potential long-term investment opportunities.
 
 Features include customizable benchmarks, technical indicators, and dynamic screeners. 
@@ -103,6 +101,8 @@ Quotient is snappy and interactive, with a console-based menu that lets you move
 ### Generate Reports
 
 <img src="https://github.com/na-stewart/Quotient/blob/master/screenshots/screenshot-3.png?raw=true" width="520">
+
+<img src="https://github.com/na-stewart/Quotient/blob/master/screenshots/report.png?raw=true" width="520">
 
 <!-- CONTRIBUTING -->
 ## Contributing
